@@ -7,3 +7,5 @@ Para rodar esse projeto, é necessário instalar:
 ```
 node app.js
 ```
+
+:)
